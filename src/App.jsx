@@ -77,7 +77,8 @@ export default function App() {
     <div className="app">
       <header className="header">
         <div className="headerInner">
-          <img src="%PUBLIC_URL%/logo192.png" alt="logo" className="logo" />
+          <img src="/logo192.png" alt="logo" className="logo" />
+
           <div>
             <h1 className="title">Book Finder</h1>
             <p className="subtitle">Search books quickly using the Open Library API</p>
