@@ -77,7 +77,7 @@ export default function App() {
     <div className="app">
       <header className="header">
         <div className="headerInner">
-          <img src="/logo192.png" alt="logo" className="logo" />
+          <img src="/booklogo192.png" alt="logo" className="logo" />
 
           <div>
             <h1 className="title">Book Finder</h1>
