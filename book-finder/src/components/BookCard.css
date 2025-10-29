@@ -1,0 +1,9 @@
+.bookCard{display:flex;flex-direction:column;background:var(--card);border-radius:10px;box-shadow:0 1px 4px rgba(15,15,15,0.06);overflow:hidden;min-height:220px;}
+.bookCover{width:100%;height:260px;object-fit:cover;background:#f2f2f2;}
+.bookInfo{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1;}
+.bookTitle{font-size:16px;margin:0;}
+.bookAuthors{margin:0;color:var(--muted);font-size:13px;}
+.bookMeta{margin:0;color:#555;font-size:13px;}
+.bookSubjects{margin:0;color:#888;font-size:12px;min-height:36px;}
+.cardActions{margin-top:auto;display:flex;gap:8px;}
+.btnOpen{padding:8px 10px;border-radius:8px;border:none;background:var(--accent);color:#fff;cursor:pointer;}
